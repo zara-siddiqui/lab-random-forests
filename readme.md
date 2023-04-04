@@ -2,7 +2,8 @@
 
 # Lab | Random Forests
 
-For this lab, you will be using the CSV files provided in the `files_for_lab` folder.  These are cleaned versions of the learningSet data from the Case Study 'Healthcare for All'.  Begin a new Jupyter Notebook after Forking and Cloning this Repo.
+For this lab, you will be using the CSV files provided in the `files_for_lab` folder.  These are cleaned versions of the learningSet data from the Case Study 'Healthcare for All'.   
+Begin a new Jupyter Notebook after Forking and Cloning this Repo.
 
 ### Instructions
 
